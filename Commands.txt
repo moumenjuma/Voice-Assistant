@@ -1,0 +1,8 @@
+﻿Hello
+How are you
+Time
+Wake up
+Hush
+sleep
+Hide commands
+Show commands
