@@ -1,4 +1,4 @@
-﻿namespace Voice_Assistant_Cyrus
+﻿namespace Voice_Assistant
 {
     partial class Form1
     {
